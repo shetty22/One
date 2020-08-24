@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\vendor",
-    "\\vendor\\bootstrap",
-    "\\vendor\\bootstrap\\css"
+    ""
   ],
-  "SelectedNode": "\\vendor\\bootstrap\\css\\bootstrap.css",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
